@@ -1,2 +1,1 @@
-#Continuos Integration with Circle-CI ||  Python Applications
-
+# Continuous Integration with Python using Circle-CI
